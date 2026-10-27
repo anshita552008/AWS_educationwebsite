@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+p {
+    color: darkslategray;
+}
+
+a {
+    color: darkred;
+}
+
+a:hover {
+    color: purple;
+}
